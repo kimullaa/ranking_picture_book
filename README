@@ -1,4 +1,8 @@
 
 ```
-python3 ranking.py | sort | head -n 50
+$ ls -al
+ranking.py
+jmo_all_20230115_confirmation.txt
+
+$ python3 ranking.py | sort | head -n 50
 ```
